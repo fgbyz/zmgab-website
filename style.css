@@ -1,0 +1,12 @@
+h1 {
+    font-family: cursive, "Time New Roman";
+    font-size: 50x;
+    font-style:italic;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: cursive, "Time New Roman";
+    font-style: italic;
+}
